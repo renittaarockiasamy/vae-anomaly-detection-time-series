@@ -29,15 +29,17 @@ jupyter notebook VAE_anomaly_detection_project.ipynb
 
 
 
+Run all cells sequentially.
 
-3. Run all cells sequentially.
+Results
 
-## Results
 The VAE successfully reconstructs normal samples and flags anomalies based on higher reconstruction error.
 
-## Author
-Renitta  
-MSc Data Science, SASTRA University
+Author
+
+Renitta A
+
+
 
 
 
